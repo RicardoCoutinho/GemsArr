@@ -4,6 +4,8 @@
 # GemsArr
 A piratey twist to the bejeweled game using C++ and SDL 2.0 libraries.
 
+A week's self-study experience of the SDL library in C++.
+
 ## Collaborators
 Ricardo Coutinho.
 
